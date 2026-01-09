@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello,  my name is Nada Tarek, I'm a bigenner Front-End developer.
+what I have learned:
+HTML
+CSS 
+JavaScript 
+Bootstrap 
+SASS 
+git - guthub
+currently working on: tailwind css
+will learn: react
 
-<!--
-**Nadaaabdlla/Nadaaabdlla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+projects:
+Black Pearl store.
+live link (coming soon)
