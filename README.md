@@ -1,7 +1,7 @@
 Hello,  my name is Nada Tarek, I'm a bigenner Front-End developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nada-tarek-a44789236/)](https://www.linkedin.com/in/nada-tarek-a44789236)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadaaabdlla@gmail.com)](mailto:nadaaabdlla@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-nadaaabdlla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nada-tarek-a44789236/)](https://www.linkedin.com/in/nada-tarek-a44789236)
+[![Gmail Badge](https://img.shields.io/badge/--nadaaabdlla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadaaabdlla@gmail.com)](mailto:nadaaabdlla@gmail.com)
 
 ## Technologies I've learned
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
