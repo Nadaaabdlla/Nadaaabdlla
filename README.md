@@ -8,13 +8,12 @@ Hello,  my name is Nada Tarek, I'm a bigenner Front-End developer.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-563D7C?style=flat-square&logo=SASS)
-
+![SASS](https://img.shields.io/badge/-Sass-563D7C?style=flat-square&logo=Sass)
+![git](https://img.shields.io/badge/-git-563D7C?style=flat-square&logo=git)
 ## Technologies I'm learning 
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind)
+![tailwindCss](https://img.shields.io/badge/-tailwindCss-black?style=flat-square&logo=tailwind)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ## projects:
 - Black Pearl store.
-
-live link (coming soon)
+.live link (coming soon)
