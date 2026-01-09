@@ -14,6 +14,9 @@ Hello,  my name is Nada Tarek, I'm a bigenner Front-End developer.
 ![Tailwindcss](https://img.shields.io/badge/-TailwindCSS-563D7C?style=flat-square&logo=Tailwindcss)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-## projects:
-- Black Pearl store.
--- live link (coming soon)
+<h3>Projects:</h3>
+<ul>
+  <li>
+    <a href="">Black Pearl store (coming soon).</a>
+  </li>
+</ul>
