@@ -1,6 +1,6 @@
 Hello,  my name is Nada Tarek, I'm a bigenner Front-End developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-nadaaabdlla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nada-tarek-a44789236/)](https://www.linkedin.com/in/nada-tarek-a44789236)
+[![Linkedin Badge](https://img.shields.io/badge/-nada_tarek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nada-tarek-a44789236/)](https://www.linkedin.com/in/nada-tarek-a44789236)
 [![Gmail Badge](https://img.shields.io/badge/--nadaaabdlla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadaaabdlla@gmail.com)](mailto:nadaaabdlla@gmail.com)
 
 ## Technologies I've learned
@@ -11,11 +11,10 @@ Hello,  my name is Nada Tarek, I'm a bigenner Front-End developer.
 ![SASS](https://img.shields.io/badge/-SASS-563D7C?style=flat-square&logo=SASS)
 
 ## Technologies I'm learning 
-![tailwind css](https://img.shields.io/badge/-tailwind-black?style=flat-square&logo=tailwind)
-
-## Technologies I'll learn
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ## projects:
 - Black Pearl store.
+
 live link (coming soon)
