@@ -17,7 +17,7 @@ Hello,  my name is Nada Tarek, I'm a bigenner Front-End developer.
 <h3>Projects:</h3>
 <ul>
   <li>
-    <a href="">Black Pearl store (coming soon).</a>
+    <a href="https://black-pearl-inky.vercel.app/index.html">Black Pearl store.</a>
   </li>
 </ul>
 <!-- 
